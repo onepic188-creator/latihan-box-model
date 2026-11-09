@@ -1,0 +1,54 @@
+body {
+    font-family: system-ui, sans-serif;
+    padding: 20px;
+}
+
+/* kegiatan 1 */
+.kotak1 {
+    width: 200px;
+    height: 100px;
+    background: lightblue;
+    padding: 20px;
+    border: 5px solid navy;
+    margin: 30px;
+    display: inline-block;
+}
+
+.kotak2 {
+    height: 500px;
+    margin: 30px;
+    padding: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+/* kagiatan 2 */
+.tag {
+    width: 150px;
+    height: 50px;
+    background: gold;
+}
+
+.tombol {
+    background: tomato;
+    color: white;
+    text-decoration: none;
+    width: 160px;
+    height: 40px;
+    padding: 10px;
+}
+
+/* kegiatan 3 */
+.baris {
+    width: 600px;
+    background: #eee;
+}
+
+.item {
+    display: inline-block;
+    width: 200px;
+    padding: 20px;
+    border: 5px solid black;
+    background: lightgreen;
+    text-align: center;
+}

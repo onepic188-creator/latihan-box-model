@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f1f5f9;
+    padding: 40px 16px;
+}
+
+body section h1 {
+    text-align: center;
+}
+
+.agun {
+    width: 300px;
+    margin: 30px;
+    padding: 24px;
+    border: 2px solid #2563eb;
+    border-radius: 12px;
+    background: white;
+    text-align: center;
+    display : inline-block;
+}
+
+.fahmi {
+    width: 300px;
+    margin: 30px;
+    padding: 24px;
+    border: 2px solid #2563eb;
+    border-radius: 12px;
+    background: white;
+    text-align: center;
+    display : inline-block;
+}
+
+.taufik {
+    width: 300px;
+    margin: 30px;
+    padding: 24px;
+    border: 2px solid #2563eb;
+    border-radius: 12px;
+    background: white;
+    text-align: center;
+    display : inline-block;
+}
+
+.foto {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+
+.nama {
+    margin: 8px 0;
+}
+
+.jurusan {
+    margin: 8px 0 18px;
+    color: #64748b;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 18px;
+    background: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
